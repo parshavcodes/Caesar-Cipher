@@ -1,6 +1,5 @@
 # Caesar Cipher Encryption and Decryption
 
-![Caesar Cipher Logo](caesar_logo.png)
 
 This Python script allows you to perform Caesar Cipher encryption and decryption on text messages with ease. Caesar Cipher is a simple and widely used encryption technique that shifts the characters in the message by a certain number of positions down the alphabet.
 
