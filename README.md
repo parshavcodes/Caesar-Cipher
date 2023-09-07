@@ -45,10 +45,5 @@ There are no specific installation requirements for this script. Simply clone th
 
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements, report bugs, or add new features.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README to include any additional information or instructions specific to your project.
