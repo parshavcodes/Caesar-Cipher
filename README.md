@@ -23,7 +23,7 @@ This Python script allows you to perform Caesar Cipher encryption and decryption
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher.git
+   https://github.com/parshavcodes/Caesar-Cipher.git
    ```
 
 2. Run the script by executing the following command:
