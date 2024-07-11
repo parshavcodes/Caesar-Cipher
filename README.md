@@ -9,7 +9,6 @@ This Python script allows you to perform Caesar Cipher encryption and decryption
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
